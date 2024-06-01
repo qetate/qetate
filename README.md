@@ -11,7 +11,7 @@ Hello! I'm Quinn, a recent graduate from Northeast State Community College with 
 
 ## Portfolio
 
-[Click here to view my projects.](https://github.com/qetate?tab=repositories)
+[Click here to view my projects.](https://github.com/qetate/ProjectGuide/blob/main/README.md)
 
 [Click here to view my Tableau portfolio.](https://public.tableau.com/app/profile/quinn.tate/vizzes)
 
