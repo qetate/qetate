@@ -16,6 +16,14 @@ Hello! I'm Quinn, a recent graduate from Northeast State Community College with 
 [Click here to view my Tableau portfolio.](https://public.tableau.com/app/profile/quinn.tate/vizzes)
 
 
+## Certifications
+
+- Google Data Analytics (Coursera)
+- AWS Certified Cloud Practitioner
+- Change Management Certification (Management & Strategy Institute)
+- Design Thinking Professional Certificate (CertiProf)
+
+
 ## Tools and Skills
 
 - **Programming Languages:** SQL, Python, C#, HTML/CSS, PHP, JavaScript
