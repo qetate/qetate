@@ -18,6 +18,7 @@ Hello! I'm Quinn, a recent graduate from Northeast State Community College with 
 
 ## Certifications
 
+- CompTIA Data+
 - Google Data Analytics (Coursera)
 - AWS Certified Cloud Practitioner
 - Change Management Certification (Management & Strategy Institute)
