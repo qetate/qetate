@@ -4,7 +4,7 @@ Hello! I'm Quinn, a recent graduate from Northeast State Community College with 
 
 - Proficient in software development languages like C#, HTML/CSS, PHP, and JavaScript.
 - Skilled in querying and manipulating data using SQL.
-- Experienced in performing data analysis using Python.
+- Experienced in performing data analysis using Python and R.
 - Proficient in creating interactive dashboards and reports with Tableau and Excel.
 - Eager to learn and apply new technologies in real-world projects.
 
@@ -29,7 +29,7 @@ Hello! I'm Quinn, a recent graduate from Northeast State Community College with 
 
 ## Tools and Skills
 
-- **Programming Languages:** SQL, Python, C#, HTML/CSS, PHP, JavaScript
+- **Programming Languages:** SQL, Python, R, C#, HTML/CSS, PHP, JavaScript
 - **Tools and Frameworks:** Node.js, Git, Postman, React, Visual Studio
 - **Data Analysis Tools and Libraries:** Tableau, Excel, MySQL Workbench, Pandas, NumPy, Matplotlib, Seaborn
 
