@@ -31,7 +31,7 @@ Hello! I'm Quinn, a recent graduate from Northeast State Community College with 
 
 - **Programming Languages:** SQL, Python, R, C#, HTML/CSS, PHP, JavaScript
 - **Tools and Frameworks:** Node.js, Git, Postman, React, Visual Studio
-- **Data Analysis Tools and Libraries:** Tableau, Excel, MySQL Workbench, Pandas, NumPy, Matplotlib, Seaborn
+- **Tools and Libraries:** Tableau, Excel, MySQL Workbench, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 
 ## Visitor Count
