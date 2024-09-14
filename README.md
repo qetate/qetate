@@ -1,10 +1,9 @@
 ## Introduction
 
-Hello! I'm Quinn, a recent graduate from Northeast State Community College with an A.A.S. in Computer Information Technology - Programming. Currently, I am pursuing my B.S. in Data Analytics at Western Governors University.
+Hello! I'm Quinn, a recent graduate from Western Governors University with a B.S. in Data Analytics. I also hold a A.A.S. in Computer Information Technology - Programming from Northeast State Community College.
 
 - Proficient in software development languages like C#, HTML/CSS, PHP, and JavaScript.
-- Skilled in querying and manipulating data using SQL.
-- Experienced in performing data analysis using Python and R.
+- Skilled in SQL, Python, and R for data wrangling, analysis, and machine learning.
 - Proficient in creating interactive dashboards and reports with Tableau and Excel.
 - Eager to learn and apply new technologies in real-world projects.
 
