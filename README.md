@@ -4,7 +4,7 @@ Hello! I'm Quinn, a recent graduate from Western Governors University with a B.S
 
 - Proficient in software development languages like C#, HTML/CSS, PHP, and JavaScript.
 - Skilled in SQL, Python, and R for data wrangling, analysis, and machine learning.
-- Proficient in creating interactive dashboards and reports with Tableau and Excel.
+- Proficient in creating interactive dashboards and reports with Tableau, PowerBI, and Excel.
 - Eager to learn and apply new technologies in real-world projects.
 
 
@@ -29,8 +29,8 @@ Hello! I'm Quinn, a recent graduate from Western Governors University with a B.S
 ## Tools and Skills
 
 - **Programming Languages:** SQL, Python, R, C#, HTML/CSS, PHP, JavaScript
-- **Tools and Frameworks:** Node.js, Git, Postman, React, Visual Studio
-- **Tools and Libraries:** Tableau, Excel, MySQL Workbench, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Data Tools and Libraries:** Tableau, PowerBI, Excel, MySQL Workbench, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Programming Tools and Frameworks:** Node.js, Git, Postman, React, Visual Studio
 
 
 ## Visitor Count
