@@ -1,10 +1,11 @@
 ## Introduction
 
-Hello! I'm Quinn, a recent graduate with a B.S. in Data Analytics from Western Governors University. I also hold an A.A.S. in Computer Information Technology - Programming from Northeast State Community College. I am now pursuing an M.S. in Marketing with a concentration in Marketing Analytics. I'm passionate about using my technical skills and marketing knowledge to uncover insights from data and help businesses make smarter, more informed decisions.
+Hello! I'm Quinn, a recent graduate with a M.S. in Marketing, with a concentration in Marketing Analytics, and a B.S. in Data Analytics from Western Governors University. I also hold an A.A.S. in Computer Information Technology - Programming from Northeast State Community College. I'm passionate about using my technical skills and marketing knowledge to uncover insights from data and help businesses make smarter, more informed decisions.
 
 - Proficient in software development languages like C#, HTML/CSS, PHP, and JavaScript.
 - Skilled in SQL, Python, and R for data wrangling, analysis, and machine learning.
 - Proficient in creating interactive dashboards and reports with Tableau, Power BI, and Excel.
+- Skilled in SEO and digital marketing analytics.
 - Eager to learn and apply new technologies in real-world projects.
 
 
@@ -24,13 +25,19 @@ Hello! I'm Quinn, a recent graduate with a B.S. in Data Analytics from Western G
 - CompTIA Project+
 - Change Management Certification (Management & Strategy Institute)
 - Design Thinking Professional Certificate (CertiProf)
+- Google Digital Marketing & E-Commerce Professional
+- Google Analytics
+- Google Ads Search
+- HubSpot SEO
+- HubSpot Inbound Marketing
+- HubSpot Marketing Hub Software
 
 
 ## Tools and Skills
 
 - **Programming Languages:** SQL, Python, R, C#, HTML/CSS, PHP, JavaScript
 - **Data Tools and Libraries:** Tableau, Power BI, Excel, MySQL Workbench, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Programming Tools and Frameworks:** Node.js, Git, Postman, React, Visual Studio
+- **Programming Tools and Frameworks:** Node.js, Git, Postman, React
 
 
 ## Visitor Count
